@@ -39,6 +39,7 @@ Enter when promted
 ## Contributing
 Me, Myself, and I.
 Research via MDN and our all time fave Google.
+Tutor Eric Hirsch.
 
 ## Questions
 kwimbish@hotmail.com or https://github.com/kwimbish2022
